@@ -1,4 +1,4 @@
-# This is a simple project designed to test a password a user inputs and grades it from 0 to 10.
+# This is a simple project designed to test a password a user inputs and grades it from 0 to 7.
 # Inspired by NeuralNine's Password Strength Checker Tutorial ----> https://www.youtube.com/watch?v=iJ01q-sRJAw
 
 import string
